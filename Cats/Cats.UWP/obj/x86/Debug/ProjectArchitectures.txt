@@ -1,0 +1,2 @@
+C:\Users\EliteBook\Documents\Visual Studio 2015\Projects\Cats\Cats\Cats.UWP\Cats.UWP.csproj;x86
+C:\Users\EliteBook\Documents\Visual Studio 2015\Projects\Cats\Cats\Cats\Cats.csproj;neutral
